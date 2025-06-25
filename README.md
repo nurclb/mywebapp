@@ -1,5 +1,3 @@
-# mywebapp
-A Friends-themed JavaScript login system with live clock, form toggling via keyboard, and dynamic class table with real-time interactivity.
 
 🎬 FRIENDS-themed Interactive Web App  
 This project is a JavaScript-based login and data management web app created for lab assignments, infused with a cozy Friends sitcom theme.
